@@ -1,4 +1,4 @@
-package com.learn.spr
+package com.learn.spr.entity
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
